@@ -1,0 +1,112 @@
+@media(max-width: 768px){
+    nav{
+        width: 95% !important;
+        margin: 42px 62px 0 10px !important;
+    }
+    .AR , .EN{
+        right: 30%;
+    top: 25%;
+    }
+    .dark , .fa-sun{
+        right: 20%;
+    }
+    .navbar-collapse{
+        background: #f7f8f9;
+        border-radius: 0px 0px 90px 90px;
+        box-shadow: 0 15px 40px 0 rgb(0 0 0 / 12%); 
+    }
+    header .bobble div{
+        display: none !important;
+    }
+    
+    header .photo {
+    width: 331px;
+    height: 378px;
+    left: 6%;
+    }
+    .intro{
+        height: 630px;
+        }       
+
+    .exp ,.features{
+        margin-bottom: 30px;
+    }
+    .experience{
+        margin: auto;
+    }
+    .testimonials{
+        margin-top: 100px;
+    }
+    .masseage{
+        font-size: 15px;
+        padding: 20px;
+        padding-top: 80px;  
+    }
+    .clients{
+        margin-top: 50px;
+        height: 600px;
+    }
+    .clients img{
+        margin-top: 30px;
+    }
+    .number{
+        margin-left: 42.5%;
+    }
+    .program{
+        height: 750px;
+        padding: 10px;
+        font-size: 12px;
+    }
+    .javades , .front-end{
+        width: 100%;
+    }
+    .javades{
+        padding-right: 46px;
+    }
+    footer{
+        height: 400px;
+    }
+}
+@media(width: 768px){
+    nav{
+        
+    width: 96% !important;
+    margin: 43px 62px 0 21px !important; 
+    }
+    .AR , .EN{
+        right: 30%;
+    top: 25%;
+    }
+    .dark , .fa-sun{
+        right: 20%;
+    }
+    .navbar-collapse{
+        background: #f7f8f9;
+        border-radius: 0px 0px 90px 90px;
+        box-shadow: 0 15px 40px 0 rgb(0 0 0 / 12%);
+    }
+    .navbar-nav{
+        margin: unset;
+        margin-left: 50px;
+    }
+    .experience{
+        margin: 0px 90px 90px 90px;
+    }
+    .program{
+        padding: 10px;
+        height: 660px;
+        font-size: 15px;
+    }
+    header .photo{
+        left: 25%;
+    }
+    .number {
+        margin-left: 43%;
+    }
+    .num1{
+        margin-left: 31px;
+    }
+    .num2{
+        margin-left: 48px;
+    }
+}

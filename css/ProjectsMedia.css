@@ -1,0 +1,77 @@
+@media(max-width: 768px){
+    nav{
+        width: 95% !important;
+        margin: 42px 62px 0 10px !important;
+    }
+    .AR , .EN{
+        right: 30%;
+        top: 25%;
+    }
+    .dark , .fa-sun{
+        right: 20%;
+    }
+    .navbar-collapse{
+        background: #f7f8f9;
+        border-radius: 0px 0px 90px 90px;
+        box-shadow: 0 15px 40px 0 rgb(0 0 0 / 12%);
+    }
+    #pills-desktop-tab{
+        margin: 20px 0px;
+    }
+    .project{
+        height: 260px;
+    }
+    .Dpro1 , .Dpro2{
+        height: 340px;
+    }
+    .Dpro3{
+        height: 290px;
+    }
+    .Apro1 , .Apro3{
+        height: 330px;
+    }
+    .Apro2{
+        height: 310px;
+    }
+    footer{
+        height: 400px;
+    }
+}
+@media(width: 768px){
+    nav{
+        
+    width: 96% !important;
+    margin: 43px 62px 0 21px !important; 
+    }
+    .AR , .EN{
+        right: 30%;
+    top: 25%;
+    }
+    .dark , .fa-sun{
+        right: 20%;
+    }
+    .navbar-collapse{
+        background: #f7f8f9;
+        border-radius: 0px 0px 90px 90px;
+        box-shadow: 0 15px 40px 0 rgb(0 0 0 / 12%);
+    }
+    .navbar-nav{
+        margin: unset;
+        margin-left: 50px;
+    }
+    .project{
+        height: 430px;
+    }
+    .Dpro1 , .Dpro2{
+        height: 610px;
+    }
+    .Dpro3{
+        height: 490px;
+    }  
+    .Apro1 , .Apro3{
+        height: 570px;
+    } 
+    .Apro2{
+        height: 510px;
+    }
+}
